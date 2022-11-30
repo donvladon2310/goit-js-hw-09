@@ -21,6 +21,7 @@ function onSubmitForm(e) {
   }
 }
 
+
 // Create promise
 function createPromise(position, delay) {
   const obj = { position, delay };
